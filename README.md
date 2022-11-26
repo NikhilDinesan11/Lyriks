@@ -1,5 +1,5 @@
 # Project Link
-https://lyriks116.netlify.app/
+https://songplay2.netlify.app/
 
 # Project Lyrics
 
